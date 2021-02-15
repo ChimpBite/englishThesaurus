@@ -1,2 +1,2 @@
-# englishThesaurus
-English Thesaurus
+# English Thesaurus
+English Thesaurus made with python
